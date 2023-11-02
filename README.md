@@ -1,4 +1,6 @@
-![preview](./images/explorer.png)
+<p align="center">
+  <img alt="License" src="./imagens/explorer.png">
+</p>
 
   <h1 align="center"> Explorer Stage 03 - Formulários 📝</h1>
 
@@ -7,10 +9,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="./imagens/explorer.png">
 </p>
 
 <br>
