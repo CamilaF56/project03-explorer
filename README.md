@@ -17,7 +17,7 @@
   <img alt="Formulário de cração de eventos" src="preview.png" width="100%">
 </p>
 
-## 💻 Projeto 03
+## 💻 Projeto
 Esse projeto simples consiste na criação de um formulário que simula o preenchimento de dados para um evento. 📆
 
 
@@ -30,7 +30,7 @@ Esse projeto simples consiste na criação de um formulário que simula o preenc
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://eventos-camila.vercel.app). 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
