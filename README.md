@@ -35,3 +35,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://eventos-
 
 Esse projeto está sob a licença MIT.
 
+Feito com ♥ by Camila Fontes
+
