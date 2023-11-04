@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário de cração de eventos" src="preview.png" width="100%">
+  <img alt="Formulário de cração de eventos" src="./imagens/preview.png" width="100%">
 </p>
 
 ## 💻 Projeto
